@@ -1,2 +1,10 @@
-# PDEVgsr
-Poseidon Developments GSR Script 
+# Poseidon gsr
+simple gsr, ox_lib and ox_target, and ox_inventory dependent
+
+
+Basically drag and drop, job check depends solely on the target in the client.lua
+
+
+Join my discord for announcements and my other scripts, conversions, and snippets
+
+https://discord.gg/jnuRVwE9G9
